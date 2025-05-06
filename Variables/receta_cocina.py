@@ -1,0 +1,11 @@
+# Programa para una receta de cocina
+print('*** Receta de Cocina ***')
+nombre_receta = input('Introduce el nombre: ')
+ingredientes = input('Introduce los ingredientes: ')
+tiempo_preparacion = int(input('Introduce el tiempo de preparación (min): '))
+dificultad_preparacion = input('Introduce la dificultad: ')
+print('-----------')
+print(f'Nombre receta: {nombre_receta}')
+print(f'Ingredientes: {ingredientes}')
+print(f'Tiempo receta: {tiempo_preparacion} min')
+print(f'Dificultad receta: {dificultad_preparacion}')
