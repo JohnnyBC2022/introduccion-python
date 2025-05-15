@@ -14,3 +14,10 @@ condicion4 = False
 
 resultado = condicion3 or condicion4
 print(f'Resultado {condicion3} y {condicion4} es: {resultado}')
+
+print('*** Operador NOT ***')
+# Cambia el valor de un booleano
+usuario_valido = True
+
+print(f'Usuario válido: {usuario_valido}')
+print(f'Invertimos valor: {not usuario_valido}')
