@@ -1,4 +1,4 @@
-print('*** Sentencias Decision ***')
+print('*** Sentencias Decisión ***')
 
 dia_con_lluvia = False
 
